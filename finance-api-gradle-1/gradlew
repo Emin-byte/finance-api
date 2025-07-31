@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+echo "Wrapper script stub. Run 'gradle wrapper --gradle-version 8.3' to generate full wrapper."
